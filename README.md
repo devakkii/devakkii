@@ -24,10 +24,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdakram" height="30" width="40" />
     </a>&nbsp;&nbsp;&nbsp;
     
-    </a>&nbsp;&nbsp;&nbsp;
-    
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_thakur012" height="30" width="40" />
-    </a>&nbsp;&nbsp;&nbsp;
+   
     
     
 </p><br>
