@@ -88,7 +88,7 @@
   
 
 <p align="center">
-    <img src="https://github.com/devakkii/devakkii/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+    <img src="https://github.com/devakkii/devakkii/.github/workflows/snake.yml/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
   
